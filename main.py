@@ -12,7 +12,7 @@ FAKE_TX_HASHES = [
 
 # === UWAGA ===
 # Wklej tu swój token z BotFather
-TOKEN = "TU_WSTAW_SWÓJ_BOT_TOKEN"
+TOKEN = "7699619854:AAEdui-sAGw0cKFXF-NLlgs6iSTo7kPG49U"
 
 # Komenda /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
